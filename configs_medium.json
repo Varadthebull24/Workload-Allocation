@@ -1,0 +1,16 @@
+{
+  "solver": "cbc",
+  "time_limit_s": 180,
+  "mip_gap": 0.01,
+  "fairness_weight": 1.0,
+  "pref_weight": 0.3,
+  "skill_weight": 0.4,
+  "continuity_weight": 0.1,
+  "junior_weight": 0.2,
+  "admin_weight": 0.2,
+  "slot_weight": 0.05,
+  "frag_weight": 0.1,
+  "use_topk": true,
+  "topk_per_task": 6,
+  "seed": 42
+}

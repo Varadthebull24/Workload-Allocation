@@ -1,0 +1,16 @@
+{
+  "total_need": 627.3251284645011,
+  "total_capacity": 2154.0,
+  "capacity_margin": 1526.6748715354988,
+  "tasks_with_zero_candidates": 0,
+  "per_period_need_hours": {
+    "T1": 186.91856246574028,
+    "T2": 256.42668427511876,
+    "T3": 183.97988172364185
+  },
+  "per_period_available_people": {
+    "T1": 20,
+    "T2": 24,
+    "T3": 19
+  }
+}
